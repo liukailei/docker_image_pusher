@@ -4,3 +4,4 @@ nginx:1.26.2
 mongo:4.2.21
 yapipro/yapi:1.9.5
 gitlab/gitlab-ce:18.1.5-ce.0
+jenkins/jenkins:2.516.2-lts
