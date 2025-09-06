@@ -3,3 +3,4 @@ redis:5.0.14
 nginx:1.26.2
 mongo:4.2.21
 yapipro/yapi:1.9.5
+gitlab/gitlab-ce:18.1.5-ce.0
