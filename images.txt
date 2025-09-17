@@ -8,3 +8,4 @@ jenkins/jenkins:2.516.2-lts
 openjdk:8u342-jdk
 postgres:15.14
 sonarqube:8.9.6-community
+goharbor/prepare:v2.13.2
