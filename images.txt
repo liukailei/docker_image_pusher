@@ -10,3 +10,5 @@ postgres:15.14
 sonarqube:8.9.6-community
 goharbor/prepare:v2.13.2
 calico/cni:v3.13.1
+calico/node:v3.13.1
+pod2daemon-flexvol:v3.13.1
