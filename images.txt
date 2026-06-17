@@ -15,3 +15,4 @@ calico/pod2daemon-flexvol:v3.13.1
 calico/kube-controllers:v3.13.1
 camunda/camunda-bpm-platform:7.21.0
 minio/minio:RELEASE.2023-01-31T02-24-19Z
+elasticsearch:7.12.1
